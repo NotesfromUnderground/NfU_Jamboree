@@ -1,0 +1,22 @@
+
+# Compiled Object files
+*.aif
+*.aiff
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.avi
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+
+*_Z*
+
+# Ignore a folder
+NfU_Jamboree_Recordings/*
+*/Backup/*
